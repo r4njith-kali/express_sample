@@ -1,1 +1,1 @@
-hello
+Sample EXPRESS backend
